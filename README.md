@@ -1,6 +1,6 @@
 # Login Input Wave
 
-View live demo here using github pages: [https://cheris-quessou.github.io/Scroll-Animation/](https://cheris-quessou.github.io/LoginInputWave/)
+View live demo here using github pages: [Live Demo][https://cheris-quessou.github.io/Scroll-Animation/](https://cheris-quessou.github.io/LoginInputWave/)
 
 # Login Input Web Project
 
